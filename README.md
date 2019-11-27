@@ -9,6 +9,7 @@ The Machine Learning pipeline for the final solution was as follows:
 4) Data Encoding: Target encoding was used in which the catgeorical values are replaced by the ratio of positive instances in the target variable for that particular category. Additionally, this ratio was normalized by the overall average according to a weight.
 5) Machine Learning model: Random Forest gave the best results with 100 estimators
 
-The code for the final solution is given in the form of a Python script as well as a Jupyter Notebook in src/jupyter_notebooks/
+The code for the final solution is given in the form of a Python script as well as a Jupyter Notebook in src/jupyter_notebooks/.
+The final submission file is there in results/.
 
 
